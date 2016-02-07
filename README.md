@@ -1,5 +1,5 @@
 ![image](https://cloud.githubusercontent.com/assets/1134912/12871761/5d34c30c-cdd5-11e5-8046-b915a7d0d40d.png)
-Awesome RxJS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Formula1 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ------------
 
 A collection of awesome [Formula1](http://formula1.com) links, communities and fan made artifacts.
